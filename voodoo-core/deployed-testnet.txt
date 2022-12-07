@@ -1,0 +1,24 @@
+Voodoo - 0x67769c0aD1e9Cc4d337a19913e95ae7bDb6E87B7
+
+VShare - 0x8b4739A686F4fF3EFcc456EEa0B24242435D9aEB
+
+VBond - 0x7ecfC713E5a664457B143606E7e37E195d97a90B
+
+
+Staking - 
+
+
+LP - 
+
+Oracles -
+
+Tax Office - 
+
+Treasury -
+
+VoodooRewardPool - 
+
+VShareRewardPool - 
+
+VoodooGenesisRewardPool -
+
